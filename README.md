@@ -2,14 +2,22 @@
 
 ## Lab Objectives:
 1 To perform installation of Unity 
+
 2 To explore working of VR Gadget
+
 3 To develop scene VR application 
+
 4 To track objects in virtual environment
+
 ## Lab Outcomes: Learners will be able to
 1 Setup VR development environment
+
 2 Use HTC Vive/ Google Cardboard/ Google Daydream and Samsung gear VR.
+
 3 Develop VR scene and place object
+
 4 Work with Augmented Faces features.
+
 Suggested Experiments: Students are required to complete at least 6 experiments.
 ## Sr. No. Name of the Experiment
 1. Installation of Unity and Visual Studio, setting up Unity for VR development, understanding documentation of the same.
